@@ -10,16 +10,17 @@
 
 <a href="https://www.linkedin.com/in/grace-eunhye-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;&logo=Linkedin&amp;&logoColor=white&amp;"/></a>
 <a href="https://www.notion.so/Grace-Kim-2315951a42cb4254988908ca22cc312b" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/></a>
-<a href="https://www.notion.so/Grace-Kim-2315951a42cb4254988908ca22cc312b" target="_blank"><img src="https://img.shields.io/badge/ffgrace_-pink?style=flat-square&amp;&logo=instagram&amp;&logoColor=violet&amp;"/></a>
 
+
+언어 및 도구 / Language & Tools
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;">
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
 
 <!--
 **eunhyekim-grace/eunhyekim-grace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
- data-canonical-src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;logo=Notion&amp;logoColor=black&amp;link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8" style="max-width: 100%;">
-
 
 
 - 🔭 I’m currently working on ...
@@ -33,4 +34,6 @@ Here are some ideas to get you started:
 
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+insta
+<a href="https://www.notion.so/Grace-Kim-2315951a42cb4254988908ca22cc312b" target="_blank"><img src="https://img.shields.io/badge/ffgrace_-pink?style=flat-square&amp;&logo=instagram&amp;&logoColor=violet&amp;"/></a>
 -->
