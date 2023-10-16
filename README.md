@@ -9,6 +9,7 @@
 
 
 <a href="https://www.linkedin.com/in/grace-eunhye-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;&logo=Linkedin&amp;&logoColor=white&amp;"/></a>
+<a href="https://www.notion.so/Grace-Kim-2315951a42cb4254988908ca22cc312b" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/></a>
 
 
 <!--
@@ -16,7 +17,7 @@
 
 Here are some ideas to get you started:
 
- data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/" style="max-width: 100%;">
+ data-canonical-src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;logo=Notion&amp;logoColor=black&amp;link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8" style="max-width: 100%;">
 
 
 
