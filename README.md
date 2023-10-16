@@ -8,14 +8,17 @@
 💬 데이터에 관한 이야기라면 언제나 환영입니다. 자유롭게 연락 주세요 :) All kinds of communications regard data is always welcome. Feel free to contact me. 
 
 
-<a href="https://www.linkedin.com/in/grace-eunhye-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-배경색?style=flat&logo=#0A66C2&logoColor=#0e76a8"/></a>
-
+<a href="https://www.linkedin.com/in/grace-eunhye-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=#0A66C2&logoColor=#0e76a8"/></a>
 
 
 <!--
 **eunhyekim-grace/eunhyekim-grace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+ data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/" style="max-width: 100%;">
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
