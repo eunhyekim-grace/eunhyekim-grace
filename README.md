@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Hi there / 안녕하세요
+
+
+📊 데이터 전문가 겸 과학자를 꿈꾸고 있습니다. Aspiring for a Data Professional and Scientist.
+💻 새로운 시각에서 데이터를 보기 위해 노력하고 있습니다. Studying hard to get Data insigth through new perspective.
+💬 데이터에 관한 이야기라면 언제나 환영입니다. 자유롭게 연락 주세요 :) All kinds of communications regard data is always welcome. Feel free to contact me. 
+
+<a href="https://www.linkedin.com/in/grace-eunhye-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=#0A66C2&logoColor=FFFFFF"/></a>
 
 <!--
 **eunhyekim-grace/eunhyekim-grace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
