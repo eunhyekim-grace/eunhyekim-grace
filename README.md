@@ -1,5 +1,7 @@
 ### 👋 안녕하세요 / Hi there 
 
+<a href="https://www.linkedin.com/in/grace-eunhye-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;&logo=Linkedin&amp;&logoColor=white&amp;"/></a>
+<a href="https://www.notion.so/Grace-Kim-2315951a42cb4254988908ca22cc312b" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/></a>
 
 📊 데이터 전문가 겸 과학자를 꿈꾸고 있습니다. Aspiring a Data Professional and Scientist.
 
@@ -8,8 +10,7 @@
 💬 데이터에 관한 이야기라면 언제나 환영입니다. 자유롭게 연락 주세요 :) All kinds of communications regard data is always welcome. Feel free to contact me. 
 
 
-<a href="https://www.linkedin.com/in/grace-eunhye-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;&logo=Linkedin&amp;&logoColor=white&amp;"/></a>
-<a href="https://www.notion.so/Grace-Kim-2315951a42cb4254988908ca22cc312b" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/></a>
+
 
 
 언어 및 도구 / Language & Tools
