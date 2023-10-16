@@ -1,7 +1,7 @@
 ### 👋 안녕하세요 / Hi there 
 
 <a href="https://www.linkedin.com/in/grace-eunhye-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;&logo=Linkedin&amp;&logoColor=white&amp;"/></a>
-<a href="https://www.notion.so/Grace-Kim-2315951a42cb4254988908ca22cc312b" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/></a>
+<a href="https://ritzy-erigeron-833.notion.site/Grace-Kim-2315951a42cb4254988908ca22cc312b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/></a>
 
 📊 데이터 전문가 겸 과학자를 꿈꾸고 있습니다. Aspiring a Data Professional and Scientist.
 
