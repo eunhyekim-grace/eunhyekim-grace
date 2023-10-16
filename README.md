@@ -10,13 +10,11 @@
 💬 데이터에 관한 이야기라면 언제나 환영입니다. 자유롭게 연락 주세요 :) All kinds of communications regard data is always welcome. Feel free to contact me. 
 
 
-
-
-
 언어 및 도구 / Language & Tools
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;">
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width: 100%;">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mlflow/mlflow.png" style="max-width: 100%;">
 
 <!--
 **eunhyekim-grace/eunhyekim-grace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
