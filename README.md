@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/grace-eunhye-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;&logo=Linkedin&amp;&logoColor=white&amp;"/></a>
 <a href="https://www.notion.so/Grace-Kim-2315951a42cb4254988908ca22cc312b" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/></a>
-<a href="https://www.notion.so/Grace-Kim-2315951a42cb4254988908ca22cc312b" target="_blank"><img src="https://img.shields.io/badge/ffgrace_-babypink?style=flat-square&amp;&logo=instagram&amp;&logoColor=violet&amp;"/></a>
+<a href="https://www.notion.so/Grace-Kim-2315951a42cb4254988908ca22cc312b" target="_blank"><img src="https://img.shields.io/badge/ffgrace_-pink?style=flat-square&amp;&logo=instagram&amp;&logoColor=violet&amp;"/></a>
 
 
 <!--
